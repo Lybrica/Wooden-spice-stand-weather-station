@@ -12,3 +12,5 @@ I learned to create user interfaces with Nextion Editor, retrieve data in JSON f
 use a CAD (computer-aided design) program Solid Edge to make a 3D model.
 
 ![alt text](https://raw.githubusercontent.com/Lybrica/Wooden-spice-stand-weather-station/master/3D_Model.png)
+
+Rest of the project files: https://drive.google.com/open?id=0B_ZAxYClgUN6NGJvYW90ell5ZEE
